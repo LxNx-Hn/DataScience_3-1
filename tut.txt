@@ -1,0 +1,5 @@
+목적	명령어	설명
+생성	python -m venv .venv	현재 폴더에 .venv 환경 생성
+활성화	source .venv/bin/activate	가상 환경 시작
+비활성화	deactivate	가상 환경 종료
+삭제	rm -rf .venv	가상 환경 폴더 완전 삭제

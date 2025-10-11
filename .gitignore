@@ -1,0 +1,15 @@
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# 기타 무시할 파일
+*.pyc
+*.pyo
+*.pyd
